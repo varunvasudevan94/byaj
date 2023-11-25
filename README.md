@@ -1,4 +1,4 @@
-# byaj
+# BYAJ
 Simple application to split your bills with a twist
 
 This app incentivices timeliness of people uploading the bills & payments by introducing simple interest component to the **dutch**.
